@@ -15,6 +15,7 @@ The following Quick Drop Keyboard shortcuts are included in this package :
 |[Open Class](https://forums.ni.com/t5/Quick-Drop-Enthusiasts/Quick-Drop-Keyboard-Shortcut-Open-Class/m-p/3495658)|Ctrl+g|
 |[Insert With Clipboard](https://forums.ni.com/t5/Quick-Drop-Enthusiasts/Insert-from-Clipboard/m-p/3521480)|Ctrl+i|
 |[Magic Delay Fairy](https://www.vipm.io/package/jki_magic_delay_fairy/)|Ctrl+m|
+|[Nattify](https://forums.ni.com/t5/Quick-Drop-Enthusiasts/Quick-Drop-Keyboard-Shortcut-Nattify-VI/m-p/3990402)|Ctrl+n|
 |[Replace With Clipboard](https://forums.ni.com/t5/Quick-Drop-Enthusiasts/Replace-from-Clipboard/m-p/3521544)|Ctrl+p|
 |[Format Numeric](https://forums.ni.com/t5/Quick-Drop-Enthusiasts/Format-Numeric-vi/td-p/3492847)|Ctrl+q|
 |[Autosize Cluster](https://forums.ni.com/t5/Quick-Drop-Enthusiasts/QD-Plugin-to-change-autosizing-of-clusters/m-p/3878281)|Ctrl+z|
